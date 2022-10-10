@@ -1,0 +1,56 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+.body_background{
+    background-size: cover;
+}
+
+#car_and_light{
+    width:20%;
+    height: 10%;
+    border-radius: 30px;
+    color:black;
+}
+
+#screen_and_controllers{
+    width:20%;
+    height:10%;
+    border-radius:30px;
+    color:black;
+}
+
+#grip_and_blade{
+    width:20%;
+    height:10%;
+    border-radius:30px;
+    color:black;
+}
+
+#led_and_eraser{
+    width:20%;
+    height:10%;
+    border-radius:30px;
+    color:black;
+}
+
+#cap_and_handle{
+    width:20%;
+    height:10%;
+    border-radius:30px;
+    color:black;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(80, 78, 78);
+    border-radius:10px;
+}
+
+.back{
+    float:right;
+    width:5%;
+    height:5%;
+    font-size:20px;
+}
